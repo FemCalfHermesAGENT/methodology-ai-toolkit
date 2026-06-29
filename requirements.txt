@@ -1,0 +1,10 @@
+scikit-learn
+scipy
+numpy
+pandas
+matplotlib
+seaborn
+optuna
+hyperopt
+ray[tune]
+mlflow
